@@ -44,9 +44,12 @@ Syntax
 
 <details>
 <summary> Interator Types Properties </summary>
-| Container     | Access | Read | Write | Iterate    | Compare              | \n
+| Container     | Access | Read | Write | Iterate    | Compare              | 
+  
 | ------------- | ------ | ---- | ----- | ---------- | -------------------- | 
+  
 | Bidirectional | X      | = *i | *i =  | ++, --     | ==, !=               |
+  
 | Random-Access | ->,[]  | = *i | *i =  | ++, --, += | ==, !=, <, >, <=, >= |
 
 </details>
