@@ -33,7 +33,7 @@ namespace ft{
     //Usage : ft::pair<type1, type2> = ft::make_pair(val1, val2)
     template<class T1, class T2>
     ft::pair<T1,T2> make_pair(T1 t, T2 u){
-        return pair<T1, T2>(t, u)
+        return pair<T1, T2>(t, u);
     }
 
     //Swap
