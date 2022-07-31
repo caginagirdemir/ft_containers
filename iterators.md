@@ -28,3 +28,11 @@ Syntax
 <img src="iterator_classification.png">
   
 </details>
+  
+<details>
+  <summary> Links </summary>
+  - https://www.javatpoint.com/cpp-iterators
+  - https://www.geeksforgeeks.org/introduction-iterators-c/
+  - https://www.geeksforgeeks.org/iterators-c-stl/?ref=lbp
+  - https://www.geeksforgeeks.org/how-to-traverse-a-c-set-in-reverse-direction/
+</details>
