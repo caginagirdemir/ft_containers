@@ -19,4 +19,4 @@ Syntax
 | --- | --- |
 | - An iterator is an object (like a pointer) that points to an element inside the container. | - Bir iterator container içindeki bir elemenatı işaret eden bir nesnedir (bir pointer gibi). |
 
-<details>
+</details>
