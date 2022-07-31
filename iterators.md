@@ -25,4 +25,6 @@ Syntax
 |- But, all iterators do not have similar functionality as that of pointers.|- Fakat bütün iteratörler pointerlar gibi benzer özelliklere sahip değildir.|
 |- Depending upon the functionality of iterators they can be classified into five categories, as shown in the diagram below with the outer one being the most powerful one and consequently the inner one is the least powerful in terms of functionality.| Özelliklerine göre iteratörler beş sınıfa ayrılır, aşağıdaki diagramda gösterilmiştir en dıştaki olan en güçlü özelliklere sahip olandır ve sırayle en içteki en az özelliklere sahip olandır. |
 
+<img src="iterator_classification.png">
+  
 </details>
