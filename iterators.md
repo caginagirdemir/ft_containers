@@ -28,6 +28,30 @@ Syntax
 <img src="iterator_classification.png">
   
 </details>
+
+<details>
+<summary> List of iterator types and containers </summary>
+| Container | Iterator Type | 
+| --- | --- | 
+| Vector | Random-Access | 
+| List | Bidirectional | 
+| Map | Bidirectional | 
+| Set | Bidirectional | 
+| Stack | No iterator Supported | 
+| Queue | No iterator Supported | 
+</details>
+
+
+<details>
+<summary> Interator Types Properties </summary>
+| Container | Access | Read | Write | Iterate | Compare |
+| --- | --- | --- | --- | --- | --- | 
+| Bidirectional | X | = *i | *i = | ++, -- | ==, != |
+| Random-Access | ->,[] | = *i | *i = | ++, --, += | ==, !=, <, >, <=, >= |
+
+</details>
+
+
   
 <details>
   <summary> Links </summary>
