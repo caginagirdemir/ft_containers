@@ -31,14 +31,16 @@ Syntax
 
 <details>
 <summary> List of iterator types and containers </summary>
-| Container | Iterator Type | 
-| --- | --- | 
-| Vector | Random-Access | 
-| List | Bidirectional | 
-| Map | Bidirectional | 
-| Set | Bidirectional | 
-| Stack | No iterator Supported | 
-| Queue | No iterator Supported | 
+
+Containers | Supported Iterator Type  
+
+Vector -> Random-Access Iterator
+List -> Bidirectional Iterator
+Map -> Bidirectional Iterator
+Set -> Bidirectional Iterator
+Stack -> No iterator Supported
+Queue -> No iterator Supported
+ 
 </details>
 
 
