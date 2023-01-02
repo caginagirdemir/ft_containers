@@ -2,12 +2,8 @@
 
 Re-implement vector, map (implemented with binary search tree) and stack container in C++ 98
 
-Also implement following functions:
-
-- iterators_traits
-- reverse_iterator
-- enable_if
-- is_integral
-- equal and lexicographical_compare
-- std::pair
-- std::make_pair
+<img src="./ft_containers/img/1.png">
+<img src="./ft_containers/img/2.png">
+<img src="./ft_containers/img/3.png">
+<img src="./ft_containers/img/4.png">
+<img src="./ft_containers/img/5.png">
